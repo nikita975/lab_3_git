@@ -3,6 +3,6 @@
 int main()
 {
 	std::cout<< "Lab3\n"<<std::endl;
-	system("pause");
+	std::cout<< "dev hellow!\n"<<std::endl;
 	return 0;
 }
