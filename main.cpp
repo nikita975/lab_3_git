@@ -2,7 +2,8 @@
 
 int main()
 {
-	std::cout<< "Lab3\n"<<std::endl;
+	cin>>name;
+	cout<<name<<"!\n";
 	system("pause");
 	return 0;
 }
